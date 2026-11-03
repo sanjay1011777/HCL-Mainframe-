@@ -4,7 +4,7 @@
            INPUT-OUTPUT SECTION.
            FILE-CONTROL.
            SELECT trans-file ASSIGN TO
-            "C:\Users\sanja\Downloads\cobol codes\transactions.txt"
+            "transactions.txt"
                ORGANIZATION IS LINE SEQUENTIAL
                FILE STATUS IS ws-status.
        DATA DIVISION.
